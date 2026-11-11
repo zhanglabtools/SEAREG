@@ -1,0 +1,19 @@
+{
+  "atac_coordinates": "spatial_atac_domain_coordinates.tsv",
+  "h3_coordinates": "h3k27ac_domain_coordinates.tsv",
+  "atac_annotations": "atac_annotations.tsv.gz",
+  "h3_annotations": "h3_annotations.tsv.gz",
+  "atac_rna": "GSM6753043_MouseBrain_20um_100barcodes_ATAC_matrix.tsv.gz",
+  "h3_rna": "GSM6753045_MouseBrain_20um_100barcodes_H3K27ac_matrix.tsv.gz",
+  "raw_h3": "../P22_H3K27ac/counts.h5ad",
+  "p2g": "P22_p2g_cor0.2_FDR0.1_annotated.tsv",
+  "motif_to_tf": "motif_candidate_tf_gene_activity_by_domain.tsv",
+  "pwm": "freq_motif.h5",
+  "go_gmt": "Enrichr.GO_Biological_Process_2023.gmt",
+  "locus_atac_fragments": "GSM6758285_MouseBrain_20um_100barcodes_ATAC_fragments.tsv.gz",
+  "locus_h3_fragments": "GSM6704979_MouseBrain_20um_100barcodes_H3K27ac_fragments.tsv.gz",
+  "locus_atac_library": "ATAC_fragment_library_sizes.tsv.gz",
+  "locus_h3_library": "H3K27ac_fragment_library_sizes.tsv.gz",
+  "locus_gene_model": "Mal_gene_model.tsv.gz",
+  "locus_pfm": "SOX6_displayed_PWM.tsv.gz"
+}
